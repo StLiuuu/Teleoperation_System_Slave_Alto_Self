@@ -1,0 +1,8 @@
+prefix=/home/panda/Sitong/Teleoperation_System_Slave_Alto/install
+
+Name: teleop_panda_controller
+Description: Description of teleop_panda_controller
+Version: 0.10.1
+Cflags: -I${prefix}/include -I/usr/local/include
+Libs: -L${prefix}/lib -lfranka_example_controllers /usr/local/lib/libfranka.so.0.9.2
+Requires: controller_interface dynamic_reconfigure eigen_conversions franka_hw franka_gripper geometry_msgs hardware_interface joint_limits_interface tf tf_conversions message_runtime pluginlib realtime_tools roscpp urdf visualization_msgs

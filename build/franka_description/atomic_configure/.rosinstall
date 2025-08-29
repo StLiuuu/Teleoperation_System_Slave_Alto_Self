@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/franka_description/setup.sh

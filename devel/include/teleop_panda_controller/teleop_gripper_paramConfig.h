@@ -1,0 +1,1 @@
+/home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/teleop_panda_controller/include/teleop_panda_controller/teleop_gripper_paramConfig.h

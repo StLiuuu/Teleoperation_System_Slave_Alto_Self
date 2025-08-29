@@ -1,0 +1,5 @@
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/share/franka_visualization/cmake/franka_visualizationConfig-version.cmake
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/share/franka_visualization/cmake/franka_visualizationConfig.cmake
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/lib/franka_visualization/robot_joint_state_publisher
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/lib/franka_visualization/gripper_joint_state_publisher
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/lib/pkgconfig/franka_visualization.pc

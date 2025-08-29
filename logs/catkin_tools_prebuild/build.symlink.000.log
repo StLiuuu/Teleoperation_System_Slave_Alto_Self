@@ -1,0 +1,12 @@
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./local_setup.zsh
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./env.sh
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./setup.zsh
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./_setup_util.py
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./local_setup.sh
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./setup.sh
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./cmake.lock
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./setup.bash
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./local_setup.bash
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/lib/pkgconfig/catkin_tools_prebuild.pc

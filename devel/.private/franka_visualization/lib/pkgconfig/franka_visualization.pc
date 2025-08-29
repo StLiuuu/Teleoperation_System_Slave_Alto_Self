@@ -1,0 +1,8 @@
+prefix=/home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/franka_visualization
+
+Name: franka_visualization
+Description: Description of franka_visualization
+Version: 0.10.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: sensor_msgs roscpp

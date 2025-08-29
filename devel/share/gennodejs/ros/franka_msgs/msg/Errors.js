@@ -1,0 +1,1 @@
+/home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/franka_msgs/share/gennodejs/ros/franka_msgs/msg/Errors.js

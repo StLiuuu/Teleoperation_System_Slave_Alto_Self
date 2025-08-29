@@ -1,0 +1,1 @@
+/home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/franka_control/share/franka_control/cmake/franka_controlConfig-version.cmake

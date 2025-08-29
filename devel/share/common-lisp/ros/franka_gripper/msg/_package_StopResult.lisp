@@ -1,0 +1,1 @@
+/home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/franka_gripper/share/common-lisp/ros/franka_gripper/msg/_package_StopResult.lisp

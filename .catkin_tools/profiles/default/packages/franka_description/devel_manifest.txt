@@ -1,0 +1,5 @@
+franka_description
+/home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/franka_description/cmake.lock /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/./cmake.lock
+/home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/franka_description/share/franka_description/cmake/franka_descriptionConfig-version.cmake /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/share/franka_description/cmake/franka_descriptionConfig-version.cmake
+/home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/franka_description/share/franka_description/cmake/franka_descriptionConfig.cmake /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/share/franka_description/cmake/franka_descriptionConfig.cmake
+/home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/.private/franka_description/lib/pkgconfig/franka_description.pc /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel/lib/pkgconfig/franka_description.pc

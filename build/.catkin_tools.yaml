@@ -1,0 +1,6 @@
+devel_space: /home/panda/Sitong/Teleoperation_System_Slave_Alto/devel
+install: false
+install_space: /home/panda/Sitong/Teleoperation_System_Slave_Alto/install
+profile: default
+source_space: /home/panda/Sitong/Teleoperation_System_Slave_Alto/src
+workspace: /home/panda/Sitong/Teleoperation_System_Slave_Alto
