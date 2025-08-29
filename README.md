@@ -25,4 +25,4 @@ roslaunch teleop_panda_controller teleop_panda_controller.launch follower_ip:=19
 For Model:
 Direct with vscode
 
-To run it in gazebo, please check the repo: Code_for_Finland
+To run it in gazebo, please check repo: Code_for_Finland
