@@ -13,14 +13,14 @@ For Master:
 cd to your workspace
 source the workspace
 roslaunch teleop_panda_controller teleop_panda_controller.launch leader_ip:=192.168.3.108
-```bash
+```
 
 For Slave:
 ```bash
 cd to your workspace
 source the workspace
 roslaunch teleop_panda_controller teleop_panda_controller.launch follower_ip:=192.168.3.107
-```bash
+```
 
 For Model:
 Direct with vscode
